@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixRiddle&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixRiddle&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixRiddle&count_private=true&show_icons=true&theme=radical&layout=compat)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelixRiddle&theme=radical)](https://git.io/streak-stats)
+
+[![Felix's github trophy](https://github-profile-trophy.vercel.app/?username=FelixRiddle&row=1)](https://github.com/ryo-ma/github-profile-trophy)
