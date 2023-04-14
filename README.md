@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FelixRiddle&theme=radical)](https://git.io/streak-stats)
 
-[![Felix's github trophy](https://github-profile-trophy.vercel.app/?username=FelixRiddle&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Felix's github trophy](https://github-profile-trophy.vercel.app/?username=FelixRiddle&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
