@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 [![Felix's github trophy](https://github-profile-trophy.vercel.app/?username=FelixRiddle&row=1&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixRiddle&theme=radical&count_private=true&private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:gh_stats-->
+<!--END_SECTION:gh_stats-->
